@@ -1,0 +1,14 @@
+D:\New folder\WeatherApp\bin\Debug\WeatherApp.exe.config
+D:\New folder\WeatherApp\bin\Debug\WeatherApp.exe
+D:\New folder\WeatherApp\bin\Debug\WeatherApp.pdb
+D:\New folder\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+D:\New folder\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+D:\New folder\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+D:\New folder\WeatherApp\obj\Debug\WeatherApp.csproj.SuggestedBindingRedirects.cache
+D:\New folder\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+D:\New folder\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+D:\New folder\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+D:\New folder\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+D:\New folder\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
+D:\New folder\WeatherApp\obj\Debug\WeatherApp.exe
+D:\New folder\WeatherApp\obj\Debug\WeatherApp.pdb
